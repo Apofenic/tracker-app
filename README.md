@@ -1,2 +1,2 @@
 # tracker-app
-behavior tracking app built with react native
+behavior tracking app built with react native (WIP)
